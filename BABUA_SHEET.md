@@ -1,4 +1,4 @@
-### 🧩 30 Coding Interview Patterns (Final List)
+### 🧩 30 Coding Interview Patterns
 
 1. Two Pointers
 2. Fast and Slow Pointers
